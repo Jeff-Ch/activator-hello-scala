@@ -1,4 +1,4 @@
-name := "hello-scala"
+name := "Demo App"
 
 version := "1.0"
 
